@@ -12,3 +12,8 @@ Moves files from a directory to another static directory based on date. Dates/fo
 Accepts a parameter and then deletes everything from the current folder that is older than that date. Note: Will delete self if the .bat falls in defined date range.
 
 usage: delold MM-DD-YYY
+
+<b>RenameSuffix.bat</b>
+
+Copy to folder with files you want to change. Will rename everything with suffix chosen (.txt), even this batch.
+Note: Make sure to remove the REM from lines to activate each part.
