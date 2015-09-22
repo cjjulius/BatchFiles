@@ -27,8 +27,6 @@ Files for use explicitly with MongoDB.
 
 Fires off a javascript (mongoMaint.js) file to be executed a certain number of times by a MongoDB instance.
 
-usage: delold MM-DD-YYY
-
 OpsView_Monitors
 ================
 
